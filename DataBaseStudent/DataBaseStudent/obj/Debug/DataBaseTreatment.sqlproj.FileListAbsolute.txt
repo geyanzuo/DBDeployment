@@ -1,0 +1,9 @@
+C:\Users\102146016\source\repos\DataBaseStudent\DataBaseStudent\bin\Debug\DataBaseTreatment.dacpac
+C:\Users\102146016\source\repos\DataBaseStudent\DataBaseStudent\obj\Debug\DataBaseStudent.dll
+C:\Users\102146016\source\repos\DataBaseStudent\DataBaseStudent\obj\Debug\DataBaseStudent.pdb
+C:\Users\102146016\source\repos\DataBaseStudent\DataBaseStudent\bin\Debug\DataBaseStudent.dll
+C:\Users\102146016\source\repos\DataBaseStudent\DataBaseStudent\bin\Debug\DataBaseStudent.pdb
+C:\Users\102146016\source\repos\DataBaseStudent\DataBaseStudent\obj\Debug\Model.xml
+C:\Users\102146016\source\repos\DataBaseStudent\DataBaseStudent\obj\Debug\refactor.xml
+C:\Users\102146016\source\repos\DataBaseStudent\DataBaseStudent\obj\Debug\postdeploy.sql
+C:\Users\102146016\source\repos\DataBaseStudent\DataBaseStudent\obj\Debug\predeploy.sql
